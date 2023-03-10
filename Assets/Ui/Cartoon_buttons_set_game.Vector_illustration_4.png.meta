@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 5267f7a5f18c1ad48ae975206e44478a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1871
+        width: 393
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974ed3f052016b4eb064baef3583a2b
+      internalID: 1528215477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1871
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea4741a720d7c4c89f13282b8443c1
+      internalID: 163347882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1871
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b25c0e776589241ba731aefbe81410
+      internalID: -901761116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_3
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1871
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990aa03948cdd941aeac0ba47aa0d52
+      internalID: 1308103273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_4
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1871
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92fe707cc134244092e6b393ca4635b
+      internalID: -1114639708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1415
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9fce31f36bb3438b7482ecf7a3ec7
+      internalID: -1001865653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1415
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e63e1ecd79cf947a2ecde16413c450
+      internalID: 96244653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1415
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bf6d93393cb943b518328b1b40e2d
+      internalID: -1289392634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1415
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889fc0814768c304589831d44bea1ed5
+      internalID: -179752095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_9
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1415
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac2761591391840ae793951ed84c5e
+      internalID: 644701322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_10
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1415
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d2b056c82d7a4390b21d187c05211
+      internalID: 1276670565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_11
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1415
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25494bbbd10e08643846f49560ac16ed
+      internalID: -784284626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 967
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c88936401e50043980aa2f9c0c0bca
+      internalID: 1999514971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 967
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c2a35db38e5749b10407fb553fb6a
+      internalID: -157384471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_14
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 967
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d3f121169d484fa8ac38440d6f718
+      internalID: -630204979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_15
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 967
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce53da1212192479fbe5887fdd42dc
+      internalID: 184883467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_16
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 967
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c26f4e566c504397ce7c6d75ea735
+      internalID: -1170260856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 511
+        width: 394
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d6ae4af9af75d47ab1835d0ad0d5b0
+      internalID: -540067833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 511
+        width: 386
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823b45b69bb38847857183c0e394e9f
+      internalID: 589989267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_19
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 511
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b29a8d27710344b8108e4381976fc
+      internalID: -2119732603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_20
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 510
+        width: 394
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fdd672365c66f4ca6c147542f16b7b
+      internalID: 2085430347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_21
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 510
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017fc4f3b247d941833fb2d15c324df
+      internalID: 512581918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 47
+        width: 393
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074dbdd3654f6344ba34af23c0cde70
+      internalID: -818499358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 47
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa3bd0d88ec8849a9d8f2936b78037
+      internalID: 810457057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 47
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fda6783853ae54cb236c5eaa7ab78a
+      internalID: -1217191988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_25
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 47
+        width: 394
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715ffab5879a4046b9d234a7f61cd9c
+      internalID: 381987063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_buttons_set_game.Vector_illustration_4_26
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 47
+        width: 386
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b888b67db5e7b84ca518bbfa63b8614
+      internalID: -1260177345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cartoon_buttons_set_game.Vector_illustration_4_3: 1308103273
+      Cartoon_buttons_set_game.Vector_illustration_4_7: -1289392634
+      Cartoon_buttons_set_game.Vector_illustration_4_1: 163347882
+      Cartoon_buttons_set_game.Vector_illustration_4_15: 184883467
+      Cartoon_buttons_set_game.Vector_illustration_4_17: -540067833
+      Cartoon_buttons_set_game.Vector_illustration_4_5: -1001865653
+      Cartoon_buttons_set_game.Vector_illustration_4_9: 644701322
+      Cartoon_buttons_set_game.Vector_illustration_4_22: -818499358
+      Cartoon_buttons_set_game.Vector_illustration_4_0: 1528215477
+      Cartoon_buttons_set_game.Vector_illustration_4_26: -1260177345
+      Cartoon_buttons_set_game.Vector_illustration_4_16: -1170260856
+      Cartoon_buttons_set_game.Vector_illustration_4_12: 1999514971
+      Cartoon_buttons_set_game.Vector_illustration_4_21: 512581918
+      Cartoon_buttons_set_game.Vector_illustration_4_23: 810457057
+      Cartoon_buttons_set_game.Vector_illustration_4_2: -901761116
+      Cartoon_buttons_set_game.Vector_illustration_4_18: 589989267
+      Cartoon_buttons_set_game.Vector_illustration_4_8: -179752095
+      Cartoon_buttons_set_game.Vector_illustration_4_24: -1217191988
+      Cartoon_buttons_set_game.Vector_illustration_4_6: 96244653
+      Cartoon_buttons_set_game.Vector_illustration_4_20: 2085430347
+      Cartoon_buttons_set_game.Vector_illustration_4_11: -784284626
+      Cartoon_buttons_set_game.Vector_illustration_4_10: 1276670565
+      Cartoon_buttons_set_game.Vector_illustration_4_14: -630204979
+      Cartoon_buttons_set_game.Vector_illustration_4_13: -157384471
+      Cartoon_buttons_set_game.Vector_illustration_4_19: -2119732603
+      Cartoon_buttons_set_game.Vector_illustration_4_25: 381987063
+      Cartoon_buttons_set_game.Vector_illustration_4_4: -1114639708
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
